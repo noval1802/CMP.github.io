@@ -3,35 +3,44 @@ name: Pages
 on:
   push:
     branches:
-      - main  # default branch
+      - main  # Cabang default tempat Hexo Anda berada
 
 jobs:
-  pages:
+  deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      # 1. Checkout kode sumber
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          # If your repository depends on submodule, please see: https://github.com/actions/checkout
-          submodules: recursive
-      - name: Use Node.js v22.12.0
-        uses: actions/setup-node@v2
+          submodules: recursive  # Sinkronisasi submodule (jika ada)
+
+      # 2. Setup Node.js versi stabil yang kompatibel
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: '22'
+          node-version: '16'  # Hexo kompatibel dengan Node.js 16
+
+      # 3. Cache dependencies untuk mempercepat proses
       - name: Cache NPM dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
+          path: ~/.npm
+          key: ${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
-            ${{ runner.OS }}-npm-cache
-      - name: Install Dependencies
+            ${{ runner.OS }}-node-
+
+      # 4. Instal dependensi Hexo
+      - name: Install dependencies
         run: npm install
-      - name: Build
-        run: npm run build
-      - name: Deploy
+
+      # 5. Generate file statis Hexo
+      - name: Build Hexo
+        run: npm run build # Jika ada error, ubah menjadi `hexo generate`
+
+      # 6. Deploy ke GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
