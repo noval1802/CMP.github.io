@@ -18,8 +18,10 @@ nav:
 
 menu:
   Home: / || fas fa-home
-  List||fas fa-list:
-    Music: /music/ || fas fa-music
+  List||fas fa-compass:
+    Arcive: /archives/ || fas fa-archive
+    Tags: /tags/ || fas fa-tags
+    Gallery: /Gallery/ || fas fa-images
   #   Movie: /movies/ || fas fa-video
 
 # --------------------------------------
@@ -45,8 +47,8 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fas fa-envelope: mailto:midun_sep73@yahoo.com || Email || '#3E5879'
+  fab fa-whatsapp: https://wa.me/6281386225702 || Whatsapp || '#3E5879'
 
 # --------------------------------------
 # Image Settings
@@ -87,7 +89,7 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img: false
+footer_img: true
 
 # Website Background
 # Can set it to color or image url
@@ -163,6 +165,7 @@ subtitle:
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
+  - Solusi Kubah Modern untuk Masjid dan Bangunan Ikonik Anda
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -282,12 +285,12 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      icon: fab fa-instagram
+      text: Cipta Mandiri Perkasa
+      link: https://www.instagram.com/nursaid6146?igsh=cHBzdHQ2OTF6djR0
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: This is the company profile of Cipta Mandiri Perkasa
   card_recent_post:
     enable: true
     # If set 0 will show all
