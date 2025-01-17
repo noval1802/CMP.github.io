@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: CMP
+title: CV.CIPTA MANDIRI PERKASA
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: C.M.P
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://github.com/noval1802/cmp.github.io
+root: /cmp.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

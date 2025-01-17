@@ -30,7 +30,7 @@ menu:
 
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
-  theme: light
+  theme: darker
   macStyle: false
   # Code block height limit (unit: px)
   height_limit: false
@@ -57,7 +57,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /asset/kubah/avawater.jpg
   effect: false
 
 # Disable all banner images
@@ -67,7 +67,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img:
+index_img: /img/bg.png
 
 # The banner image of archive page
 archive_img:
@@ -113,7 +113,7 @@ error_img:
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: /img/error-page.png
+  background: /cmp.github.io/img/error-page.png
 
 post_meta:
   # Home Page
@@ -149,7 +149,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
