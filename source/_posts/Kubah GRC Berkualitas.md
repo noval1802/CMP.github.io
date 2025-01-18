@@ -3,7 +3,7 @@ title: Keterangan GRC
 date: 2023-01-07 22:13:12
 tags: Artikel
 top_img:
-cover: /asset/kubah/post.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/post.jpg
 ---
 
 # Deskripsi Blog 

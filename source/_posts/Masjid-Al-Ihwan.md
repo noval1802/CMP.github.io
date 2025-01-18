@@ -6,7 +6,7 @@ tags:
     - Finish
     - Kubah Motif
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2024-02-25-16-44-51%202.jpg
 ---
 
 # **Penyelesaian Proyek Kubah GRC Motif dan Kubah Dalam Masjid Al-Ihwan**  

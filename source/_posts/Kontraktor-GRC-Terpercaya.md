@@ -3,7 +3,7 @@ title: Kontraktor GRC Terpercaya
 date: 2025-01-13 15:34:35
 tags: Artikel
 top_img:
-cover: /asset/IMG_8972.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_8997.jpg
 ---
 # **Kontraktor GRC Terpercaya: Solusi Estetika dan Kekuatan untuk Bangunan Anda**
 

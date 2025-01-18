@@ -3,7 +3,7 @@ title: Masjid Al-Furqon
 date: 2021-06-23 21:57:23
 tags: Finish
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_9003.jpg
 ---
 
 # **Penyelesaian Proyek Kubah, Leher, Menara, dan Mimbar GRC di Masjid Al-Furqon**  

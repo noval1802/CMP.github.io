@@ -3,7 +3,7 @@ title: Mengenal Lebih Dekat Kubah GRC Keunggulan dan Aplikasinya
 date: 2025-01-13 10:56:50
 tags: Artikel
 top_img:
-cover: /asset/kubah/FB_IMG_1548860207280.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/FB_IMG_1548860207280.jpg
 ---
 
 # **Pendahuluan:**
