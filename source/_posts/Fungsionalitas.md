@@ -3,7 +3,7 @@ title: Seni Fungsionalitas
 date: 2025-01-14 19:24:05
 tags: Artikel
 top_img:
-cover: /asset/IMG_8972.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_8972.jpg
 ---
 
 # **Keindahan Ornamen pada Kubah GRC: Seni dan Fungsionalitas**

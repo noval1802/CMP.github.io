@@ -3,7 +3,7 @@ title: Semua yang Perlu Anda Ketahui tentang Kubah GRC
 date: 2025-01-07 22:13:18
 tags: Artikel
 top_img:
-cover: /asset/kubah/FB_IMG_1548856212595.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/FB_IMG_1548856212595.jpg
 ---
 
 # **Pendahuluan**

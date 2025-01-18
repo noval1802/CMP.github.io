@@ -57,7 +57,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /asset/kubah/avawater.jpg
+  img: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/avawater.jpg
   effect: false
 
 # Disable all banner images
@@ -67,7 +67,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: https://raw.githubusercontent.com/1337rokudenashi/1337rokudenashi.github.io/main/rokudenashi.png
+index_img: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/bg.png
 # /cmp.github.io/img/asset/bg.png
 # The banner image of archive page
 archive_img:

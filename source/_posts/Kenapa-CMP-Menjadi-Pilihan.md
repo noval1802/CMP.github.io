@@ -3,7 +3,7 @@ title: Kenapa CMP Menjadi Pilihan
 date: 2025-01-13 15:15:00
 tags: Artikel
 top_img:
-cover: /asset/IMG_8972.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_8972.jpg
 ---
 # **Mengapa Kami Menjadi Pilihan Utama untuk Pembuatan GRC Berkualitas**
 

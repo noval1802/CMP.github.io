@@ -3,7 +3,7 @@ title: Proyek Kubah GRC Cipta Mandiri Perkasa
 date: 2025-01-14 21:29:41
 tags: Artikel
 top_img:
-cover: /asset/IMG_8972.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_8972.jpg
 ---
 
 # **Proyek Kubah GRC oleh Cipta Mandiri Perkasa: Membawa Keindahan ke Berbagai Lokasi**
