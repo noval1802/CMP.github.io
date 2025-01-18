@@ -3,7 +3,7 @@ title: Masjid Jami Nurul Islam
 date: 2021-06-25 01:16:45
 keywords: 'masjid jami nurul islam, menara masjid berbahan GRC, makara masjid GRC, kontraktor masjid di kuningan, pembangunan menara masjid, menara GRC desain islami, keunggulan material GRC untuk masjid, jasa pemasangan menara GRC, dekorasi masjid modern, Cipta Mandiri Perkasa'
 tags: 
-    - Finish
+    - Diselesaikan
     - Kubah Motif
     - Menara
 top_img:

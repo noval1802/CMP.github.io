@@ -3,7 +3,7 @@ title: Masjid Jami' Annurriyah Hasyim Amari
 date: 2024-04-23 16:47:42
 keywords: 'kubah GRC, menara GRC, konstruksi masjid, kubah masjid, menara masjid, material GRC, pembangunan masjid, masjid Annurriyah Hasyim Amari, GRC, desain islami, kubah GRC megah, tempat ibadah, Cipta Mandiri Perkasa'
 tags: 
-   - Finish
+   - Diselesaikan
    - Menara
    - Nabawi
    - Kabah

@@ -1,7 +1,10 @@
 ---
 title: Masjid As-Sakinah
 date: 2022-10-25 16:20:39
-tags: Finish
+tags: 
+   - Diselesaikan
+   - Krawangan
+   - Kubah Motif
 top_img:
 cover: /asset/kubah/FB_IMG_1548856212595.jpg
 ---

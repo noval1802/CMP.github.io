@@ -1,6 +1,7 @@
 ---
 title: Kenapa CMP Menjadi Pilihan
 date: 2025-01-13 15:15:00
+categories: Artikel
 tags: Artikel
 top_img:
 cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_8972.jpg

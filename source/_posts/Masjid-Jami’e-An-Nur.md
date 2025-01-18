@@ -3,7 +3,7 @@ title: Masjid Jami’e An-Nur
 date: 2023-06-13 00:24:37
 keywords: 'Masjid Jami’e An-Nur, GRC Krawangan Masif, Kali Grafi Nama Masjid, Masjid di Cikarang Utara, Krawangan GRC, Konstruksi GRC, Kaligrafi Nama Masjid, Proyek GRC Masjid, Krawangan Masjid Bekasi, Masjid Jami’e An-Nur Cikarang Utara'
 tags: 
-     - Finish
+     - Diselesaikan
      - Krawangan
      - Kaligrafi
 top_img:

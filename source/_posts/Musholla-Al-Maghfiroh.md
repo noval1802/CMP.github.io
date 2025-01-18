@@ -1,7 +1,12 @@
 ---
 title: Musholla Al Maghfiroh
 date: 2022-07-27 18:55:52
-tags: Finish
+keywords: 'kubah GRC, pemasangan kubah musholla, krawangan GRC, menara musholla, desain kubah artistik, kubah GRC motif, leher kubah GRC, GRC berkualitas, proyek kubah musholla, konstruksi GRC, krawangan musholla, material GRC, musholla Al Maghfiroh, kontraktor kubah GRC, pemasangan krawangan, menara GRC, desain musholla islami, pembangunan musholla, jasa pembuatan kubah GRC, dekorasi musholla, proyek konstruksi GRC, musholla megah, estetika kubah musholla, keunggulan material GRC, Cipta Mandiri Perkasa'
+tags: 
+   - Diselesaikan
+   - Kubah Motif
+   - Krawangan
+   - Menara
 top_img:
 cover: /asset/IMG_9003.jpg
 ---

@@ -1,7 +1,10 @@
 ---
 title: Mushlla Mas’ud
 date: 2021-08-18 17:58:01
-tags: Finish
+keywords: 'proyek kubah GRC, kubah GRC Musholla, kubah GRC Bekasi, kontraktor kubah GRC, jasa pembuatan kubah GRC, kubah GRC modern, keunggulan kubah GRC, kubah motif islami'
+tags: 
+   - Diselesaikan
+   - Kubah
 top_img:
 cover: /asset/IMG_9003.jpg
 ---

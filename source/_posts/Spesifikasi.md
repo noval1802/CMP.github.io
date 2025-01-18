@@ -1,6 +1,7 @@
 ---
 title: Spesifikasi
 date: 2016-01-13 12:14:09
+categories: Artikel
 tags: Artikel
 top_img:
 cover: /asset/krawangan/FB_IMG_1548864784940.jpg

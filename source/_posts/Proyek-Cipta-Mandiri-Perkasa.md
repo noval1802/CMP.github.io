@@ -1,6 +1,7 @@
 ---
 title: Proyek Kubah GRC Cipta Mandiri Perkasa
 date: 2025-01-14 21:29:41
+categories: Artikel
 tags: Artikel
 top_img:
 cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_8972.jpg

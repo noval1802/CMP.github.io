@@ -3,7 +3,7 @@ title: Masjid Al-Kautsar Pulau Obi
 date: 2022-11-13 01:02:59
 keywords: 'Masjid Al-Kautsar, kubah GRC Maluku Utara, ornamen masjid Pulau Obi, konstruksi kubah islami, bahan GRC berkualitas, makara kubah, desain islami masjid, krawangan GRC masjid, kubah luar GRC, kubah dalam GRC'
 tags:
-    - Finish
+    - Diselesaikan
     - Kubah Motif
     - Menara
     - Ornamen

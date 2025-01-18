@@ -1,7 +1,10 @@
 ---
 title: Masjid Jami AL-Baitul Ma'mur
 date: 2022-09-01 15:34:59
-tags: Finish
+tags: 
+    - Diselesaikan
+    - Masif
+    - Menara
 top_img:
 cover: /asset/kubah/FB_IMG_1548856212595.jpg
 ---

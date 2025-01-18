@@ -3,7 +3,7 @@ title: MI Plus Roudhotul Muhaibbin
 date: 2023-03-30 21:02:10
 keywords: 'krawangan GRC, GRC krawangan masif, pemasangan krawangan GRC, desain islami modern, proyek GRC sekolah, ventilasi bangunan dengan GRC, fasad gedung GRC, keunggulan material GRC, MI Plus Roudhotul Muhaibbin, krawangan depan GRC, estetika gedung sekolah, ventilasi alami GRC, pencahayaan alami GRC, proyek krawangan GRC modern, Cipta Mandiri Perkasa GRC, kontraktor GRC Cibitung, krawangan islami, bangunan modern GRC, desain fasad islami, jasa pemasangan krawangan'
 tags: 
-   - Finish
+   - Diselesaikan
    - Krawangan
 top_img:
 cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/krawangan/FB_IMG_1548861013020.jpg

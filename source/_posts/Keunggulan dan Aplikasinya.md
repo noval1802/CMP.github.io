@@ -2,6 +2,7 @@
 title: Mengenal Lebih Dekat Kubah GRC Keunggulan dan Aplikasinya
 date: 2025-01-13 10:56:50
 keywords: 'kubah GRC, keunggulan kubah GRC, aplikasi kubah GRC, pengertian kubah GRC, Glassfibre Reinforced Cement, desain kubah GRC, proses pembuatan kubah GRC, material kubah modern, konstruksi kubah ringan, kubah tahan lama, arsitektur kubah GRC, pemasangan kubah GRC, perawatan kubah GRC, kubah tahan api, fleksibilitas desain GRC, kubah GRC untuk masjid, kubah GRC untuk gereja, kubah GRC bangunan pemerintahan, kubah GRC pusat perbelanjaan, kubah GRC planetarium, keuntungan menggunakan kubah GRC, harga kubah GRC, kontraktor kubah GRC'
+categories: Artikel
 tags: Artikel
 top_img:
 cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/FB_IMG_1548860207280.jpg

@@ -2,6 +2,7 @@
 title: Seni Fungsionalitas
 date: 2025-01-14 19:24:05
 keywords: 'kubah GRC, ornamen kubah GRC, keindahan kubah GRC, desain ornamen kubah, kontraktor kubah GRC, kubah GRC Indonesia, kaligrafi kubah GRC, pola geometris kubah, pola floral arsitektur Islam, seni pada kubah GRC, keunggulan kubah GRC, tahan lama kubah GRC, perawatan kubah GRC, kubah GRC custom, kubah GRC modern, warisan seni kubah, kekuatan struktur kubah GRC, Cipta Mandiri Perkasa, jasa pembuatan kubah GRC, arsitektur Islam kubah GRC'
+categories: Artikel
 tags: Artikel
 top_img:
 cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/ornamen/IMG-20190130-WA0039.jpg

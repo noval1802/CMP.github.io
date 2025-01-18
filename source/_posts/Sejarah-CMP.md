@@ -2,6 +2,7 @@
 title: Sejarah CMP
 date: 2025-01-13 16:15:28
 keywords: 'Sejarah Cipta Mandiri Perkasa, CMP, kontraktor kubah GRC, kubah masjid, kubah gereja, desain kubah modern, kubah GRC berkualitas, inovasi kubah GRC, kubah tahan lama, proyek kubah nasional, pembuatan kubah ikonik, sejarah perusahaan kubah, penghargaan kubah GRC, industri kubah Indonesia, jasa renovasi kubah, kontraktor kubah terpercaya, pelatihan tim kubah, desain kubah kompleks, kubah estetis, solusi konstruksi kubah.'
+categories: About
 tags: About
 top_img:
 cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/avawater.jpg

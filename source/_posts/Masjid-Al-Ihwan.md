@@ -3,7 +3,7 @@ title: Masjid Al-Ihwan
 date: 2023-05-27 00:54:47
 keywords: 'masjid al-ihwan, kubah masjid bekasi, kubah GRC motif, kubah dalam masjid, konstruksi kubah islami, kubah GRC tambun selatan, kubah masjid modern, jasa pemasangan kubah GRC, arsitektur masjid bekasi, Cipta Mandiri Perkasa'
 tags: 
-    - Finish
+    - Diselesaikan
     - Kubah Motif
 top_img:
 cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2024-02-25-16-44-51%202.jpg

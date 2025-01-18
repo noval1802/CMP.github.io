@@ -1,7 +1,10 @@
 ---
 title: Masjid Baitul Mu’min
 date: 2022-12-02 22:13:19
-tags: Finish
+tags: 
+   - Diselesaikan
+   - Lisplang
+   - Kubah Motif
 top_img:
 cover: /asset/IMG_9003.jpg
 ---

@@ -3,7 +3,7 @@ title: Masjid Jami Al-Makmur
 date: 2022-08-12 00:41:38
 keywords: 'GRC Menara, Masjid Jami Al-Makmur, konstruksi menara masjid, GRC Bekasi, masjid Vila Makmur, menara masjid, menara GRC, GRC untuk masjid, pembangunan masjid Bekasi, masjid Tambun Selatan, Cipta Mandiri Perkasa, konstruksi GRC, arsitektur masjid, material GRC, menara masjid Bekasi, desain menara masjid'
 tags:
-    - Finish
+    - Diselesaikan
     - Menara
 top_img:
 cover: /asset/IMG_9003.jpg

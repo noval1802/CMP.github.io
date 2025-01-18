@@ -2,7 +2,9 @@
 title: Masjid Jami Mambail Aman
 date: 2022-12-28 00:12:29
 keywords: 'gaya kubah GRC, kubah luar GRC, kubah dalam GRC, leher kubah GRC, masjid Jami Mambail Aman, konstruksi masjid, kubah masjid, proyek GRC, kubah besar GRC, desain kubah GRC, GRC untuk masjid, pembangunan masjid, GRC tahan lama, desain kubah modern, masjid di Tambelang'
-tags: Finish
+tags: 
+   - Diselesaikan
+   - Kubah Motif
 top_img:
 cover: /asset/IMG_9003.jpg
 ---

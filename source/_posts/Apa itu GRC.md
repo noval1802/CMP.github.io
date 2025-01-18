@@ -1,6 +1,7 @@
 ---
 title: Apa itu GRC?
 date: 2025-01-07 22:15:58
+categories: Artikel
 tags: Artikel
 top_img:
 cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/FB_IMG_1548859134163.jpg

@@ -1,16 +1,19 @@
 ---
 title: Pondok Pesantren Riyaddul Ulum
 date: 2021-12-08 18:47:59
-tags: Finish
+keywords: 'kubah GRC, leheran GRC, kubah luar GRC, kubah dalam GRC, proyek kubah GRC Sukabumi, kontraktor kubah GRC, GRC untuk pondok pesantren, desain kubah GRC, keunggulan material GRC, pemasangan kubah masjid, pondok pesantren Riyaddul Ulum, proyek kubah pesantren, jasa pemasangan kubah GRC, konstruksi kubah leheran, Cipta Mandiri Perkasa kubah GRC, GRC tahan cuaca, estetika kubah GRC, kubah masjid megah, material kubah ringan dan kuat, leheran GRC pondok pesantren'
+tags:
+   - Diselesaikan
+   - Kubah Motif
 top_img:
 cover: /asset/IMG_9003.jpg
 ---
 
-# **Penyelesaian Proyek Kubah dan Leheran GRC Pondok Pesantren Riyaddul Ulum**  
+# **Penyelesaian Proyek Kubah dan Leheran GRC Pondok Pesantren Riyaddul Ulum**
 
 Dengan bangga kami mengumumkan bahwa proyek pemasangan kubah luar, kubah dalam, dan leheran GRC untuk **Pondok Pesantren Riyaddul Ulum** telah selesai dengan sukses. Pondok pesantren ini terletak di **Kampung Gandasoli, Desa Cipurut, Kecamatan Curughas, Kabupaten Sukabumi**, dan kini tampil lebih megah serta siap menjadi pusat pendidikan dan ibadah yang lebih nyaman bagi para santri dan jamaah.  
 
-## **Detail Proyek**  
+## **Detail Proyek**
 
 |       Type      |  Unit  | Satuan |   Volume    | Totoal Volume |
 | --------------- | ------ | ------ | ----------- | ------------- |

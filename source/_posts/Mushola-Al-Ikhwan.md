@@ -1,7 +1,11 @@
 ---
 title: Mushola Al-Ikhwan
 date: 2022-02-02 20:29:45
-tags: Finish
+keywords: 'penyelesaian proyek GRC, GRC Mushola Al-Ikhwan, krawangan GRC islami, pemasangan krawangan GRC, lis profil GRC, GRC krawangan mimbar, GRC fasad mushola, instalasi dekorasi GRC, kontraktor GRC profesional, proyek GRC Kavling Babakan, mushola estetis dengan GRC, desain islami GRC, manfaat GRC pada mushola, GRC tahan cuaca, keunggulan material GRC, dekorasi interior mushola, krawangan masif GRC, GRC lis profil bawah, GRC lis profil atas, jasa pemasangan krawangan GRC'
+tags: 
+   - Diselesaikan
+   - Krawangan
+   - Masif
 top_img:
 cover: /asset/IMG_9003.jpg
 ---

@@ -3,7 +3,7 @@ title: Masjid At-Taufiq
 date: 2023-05-03 00:02:35
 keywords: 'Masjid At-Taufiq, Kubah GRC, Kolom GRC, Kongliong GRC, Konstruksi Masjid, GRC Berkualitas, Proyek Kubah Masjid, Masjid di Bekasi, Pemasangan Kubah GRC, GRC Pilar Masjid, Desain Kubah Motif, Krawangan GRC, Pembuatan Kolom Masjid'
 tags: 
-    - Finish
+    - Diselesaikan
     - Kubah Motif
     - Kolom
 top_img:
