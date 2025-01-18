@@ -1,9 +1,14 @@
 ---
 title: Masjid Jamie At-Taqwa
 date: 2024-04-25 19:52:50
-tags: Finish
+keywords: 'proyek GRC masjid, GRC Masjid Jamie At-Taqwa, GRC Krawangan Masif, GRC Krawangan Dalam, GRC Mimbar masjid, kolom segitiga GRC, pilar GRC masjid, keunggulan GRC, desain masjid islami, konstruksi masjid dengan GRC, material GRC tahan cuaca, Cipta Mandiri Perkasa, kontraktor kubah masjid, GRC lis krawangan atas, GRC lis krawangan bawah, estetika masjid dengan GRC, proyek masjid Tambun Selatan, jasa konstruksi masjid, GRC untuk arsitektur masjid, bahan GRC berkualitas tinggi'
+tags: 
+    - Finish
+    - Mimbar
+    - Krawangan
+    - Kolom
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2024-02-25-16-44-50.jpg
 ---
 # **Penyelesaian Proyek GRC Masjid Jamie At-Taqwa: Menyempurnakan Keindahan dan Fungsi**  
 
@@ -21,8 +26,7 @@ Kami dengan bangga mengumumkan penyelesaian proyek GRC (Glassfiber Reinforced Ce
 | GRC Krawangan Dalam | 8 Unit | L 3m x T 6m | V 36m | V 288m² |
 | GRC Krawangan | 2 Unit | L 2.20 x T 4.20 | V 10.50m² | V 21m² |
 | GRC Kolom Pilar | 2 Unit | - | V 6.384m² | V 12.768m² |
-²
-
+---
 
  1. **GRC Mimbar**  
 - **Jumlah Unit:** 1 unit.  

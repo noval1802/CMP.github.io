@@ -3,7 +3,7 @@ title: Tentang Kami
 date: 2009-04-07 22:13:20
 tags: About
 top_img:
-cover: /asset/kubah/avawater.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/avawater.jpg
 ---
 
 # **Profil Perusahaan**  

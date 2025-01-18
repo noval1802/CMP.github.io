@@ -1,9 +1,17 @@
 ---
 title: Masjid Assayidah Khotijah
 date: 2021-07-17 18:22:58
-tags: Finish
+keywords: 'GRC masjid, konstruksi GRC, proyek GRC masjid, GRC mimbar, GRC lis lantai, GRC krawangan, GRC kubah, GRC menara, jasa GRC, keunggulan material GRC, desain GRC masjid, pembuatan kubah GRC, GRC krawangan pagar, GRC lisplang masjid, GRC tangga masjid, jasa konstruksi masjid, kubah masjid motif, arsitektur masjid modern, GRC tahan cuaca, material bangunan ringan, estetika masjid, GRC dekoratif, renovasi masjid, pembangunan masjid, masjid Assayidah Khotijah, kubah masjid elegan, krawangan ventilasi, detail artistik GRC, solusi konstruksi masjid, kontraktor masjid GRC'
+tags: 
+   - Finish
+   - Menara
+   - Mimbar
+   - Krawangan
+   - Masif
+   - Lisplang
+   - Kubah Motif
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2024-02-25-16-44-50%203.jpg
 ---
 
 # **Penyelesaian Proyek Konstruksi GRC di Masjid Assayidah Khotijah: Mewujudkan Keindahan dan Ketahanan**

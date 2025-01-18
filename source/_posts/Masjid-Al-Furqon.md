@@ -1,7 +1,12 @@
 ---
 title: Masjid Al-Furqon
 date: 2021-06-23 21:57:23
-tags: Finish
+keywords: 'kubah GRC, kubah masjid GRC, menara GRC, mimbar GRC, leher kubah GRC, konstruksi masjid GRC, arsitektur islami GRC, proyek GRC masjid, jasa pembuatan kubah GRC, jasa pembuatan menara GRC, jasa pembuatan mimbar GRC, jasa pembuatan leher kubah GRC, desain masjid modern, keunggulan material GRC, Cipta Mandiri Perkasa, ahli kubah masjid, konstruksi kubah islami, masjid Al-Furqon Cibitung, proyek GRC di Cibitung, bahan GRC untuk masjid, GRC tahan cuaca, kubah ringan dan kuat, estetika islami, solusi konstruksi masjid, jasa kontraktor GRC, kontraktor kubah GRC terbaik'
+tags: 
+   - Finish
+   - Kubah Motif
+   - Menara
+   - Mimbar
 top_img:
 cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_9003.jpg
 ---

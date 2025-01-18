@@ -1,9 +1,13 @@
 ---
 title: Masjid Jami Miftahul Jannah
 date: 2023-08-12 20:49:26
-tags: Finish
+keywords: 'Proyek Penyelesaian Kubah Masjid, Krawangan Masjid, Gapura Masjid, Masjid Jami Miftahul Jannah, Kubah GRC, GRC Krawangan Gapura, Kong Liong Masjid, Krawangan Atas Masjid, Kubah Tengah Masjid, Kubah Kecil Masjid, Material GRC, Dekorasi Masjid Islami, Arsitektur Masjid, Desain Masjid Modern, Pembangunan Masjid, Cipta Mandiri Perkasa, CMP Kubah GRC, Konstruksi Kubah Masjid, Krawangan GRC, Ornamen Masjid, GRC Tahan Lama, Estetika Masjid, Ventilasi Alami Masjid, Konstruksi Masjid, Pemasangan Kubah Masjid, Kubah Masjid Tahan Lama, Krawangan Ornamental, GRC untuk Masjid, Solusi Arsitektural Masjid'
+tags: 
+   - Finish
+   - Krawangan
+   - Kubah Motif
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/FB_IMG_1548864840960.jpg
 ---
 # **Proyek Penyelesaian Kubah, Krawangan, dan Gapura Masjid Jami Miftahul Jannah**  
 
@@ -16,7 +20,7 @@ Kami bangga menyampaikan bahwa proyek pembangunan dan dekorasi arsitektural **Ma
 | Krawangan Atas| 1 Unit | - | - | V 55.50m² |
 | GRC Kubah Tengah | 1 Unit | - | - | - |
 | GRC Kubah Kecil | 2 Unit | - | - | - |
-
+---
 
 ## **Rincian Proyek yang Telah Dilaksanakan**  
 

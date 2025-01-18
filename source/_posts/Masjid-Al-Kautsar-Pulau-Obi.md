@@ -9,7 +9,7 @@ tags:
     - Ornamen
     - Krawangan
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/ornamen/IMG-20190131-WA0106.jpg
 ---
 
 **Proyek Penyelesaian Kubah dan Ornamen Masjid Al-Kautsar di Pulau Obi, Maluku Utara**  

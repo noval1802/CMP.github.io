@@ -7,7 +7,7 @@ tags:
     - Kubah Motif
     - Kolom
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/IMG-20190203-WA0001.jpg
 ---
 
 # **Penyelesaian Proyek Kubah dan Kolom GRC di Masjid At-Taufiq**  
@@ -22,7 +22,7 @@ Kami dengan bangga mengumumkan bahwa proyek pemasangan kubah, kolom, dan konglio
 | GRC Kubah Dom Dalam | 1 Unit | D 6m | 18.84 x T 4.50Cm | V 84m² |
 | GRC Kolom Plar Lantai 1 dan 2 | 16 Unit | D 60 x T 3.60 | V 6.78m² | V 54.2m² |
 | GRC Kongliong Lantai 1 dan 2 | 19 Unit | L 2.30 x T 2.5 | V 5.75m² | V 51.70m² |
-
+---
 
 1. **GRC Kubah Luar Motif**  
    Kubah luar motif GRC ini menampilkan desain indah dan kokoh yang menjadi ciri khas Masjid At-Taufiq. Dengan bahan GRC yang ringan namun kuat, kubah ini menambah kemegahan bangunan masjid, memberikan tampilan yang mencolok dan elegan.  

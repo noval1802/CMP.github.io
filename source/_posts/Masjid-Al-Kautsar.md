@@ -1,9 +1,10 @@
 ---
 title: Masjid Al-Kautsar
 date: 2023-09-14 22:26:38
+keywords: 'proyek krawangan masif GRC, krawangan GRC Masjid Al-Kautsar, pemasangan krawangan GRC Bekasi, krawangan islami GRC, keunggulan krawangan GRC, desain ventilasi masjid, material GRC tahan cuaca, pola islami GRC, konstruksi masjid modern, jasa pemasangan krawangan GRC, krawangan GRC estetika tinggi, daya tahan krawangan GRC, fleksibilitas desain GRC, krawangan GRC ringan kokoh, Cipta Mandiri Perkasa, kontraktor GRC terpercaya, konstruksi masjid berkualitas, krawangan GRC untuk ventilasi, proyek GRC profesional'
 tags: Finish
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/krawangan/blog.jpg
 ---
 
 **Penyelesaian Proyek Krawangan Masif GRC di Masjid Al-Kautsar**  

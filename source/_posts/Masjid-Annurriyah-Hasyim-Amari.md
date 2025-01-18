@@ -12,7 +12,7 @@ tags:
    - Lisplang
    - Mahkota
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_9003.jpg
 ---
 
 # **Penyelesaian Proyek GRC Terintegrasi Masjid Annurriyah Hasyim Amari di Bekasi**  
