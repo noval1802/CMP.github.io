@@ -260,9 +260,9 @@ footer:
   owner:
     enable: true
     since: 2019
-  custom_text:
+  custom_text: Jl. Raya Tambelang, Kp. Pisang Batu, Des. Kertamukti, Kec. Cibitung, Kab. Bekasi 17520 <a herf="https://maps.app.goo.gl/3aMZXw3VSE1sBZh66">Google Maps</a> | Bisa Juga Hubungi Kami di <a href="https://wa.me/6281386225702?text=Halo%2C%20saya%20tertarik%20dengan%20layanan%20Anda.%20Bisa%20dijelaskan%20bagaimana%20perhitungan%20harga%20untuk%20%5Bproduk%2Flayanan%5D%20yang%20Anda%20tawarkan%3F%20Terima%20kasih.%0A">+6281386225702</a>! 
   # Copyright of theme and framework
-  copyright: true
+  copyright: false
 
 # --------------------------------------
 # Aside Settings
