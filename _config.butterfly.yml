@@ -54,7 +54,7 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: /img/favicon.png 
 
 avatar:
   img: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/kubah/avawater.jpg
