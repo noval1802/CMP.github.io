@@ -2,12 +2,12 @@
 title: Masjid Baitul Mukmin
 date: 2022-07-09 23:14:49
 keywords: 'masjid jami al marhumah, krawangan GRC, masjid di kalideres, masjid dengan krawangan islami, proyek GRC untuk masjid, krawangan estetis, krawangan berkualitas, kontraktor krawangan GRC, jasa pemasangan GRC, ventilasi masjid modern'
-description:
+categories: Diselesaikan
 tags: 
    - Diselesaikan
    - Krawangan
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/krawangan/FB_IMG_1548864781553.jpg
 ---
 
 # **Penyelesaian Proyek Kubah GRC Masjid Baitul Mukmin**  

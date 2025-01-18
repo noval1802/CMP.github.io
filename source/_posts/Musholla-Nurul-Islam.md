@@ -2,11 +2,12 @@
 title: Musholla Nurul Islam
 date: 2022-09-14 18:07:50
 keywords: 'kubah GRC, proyek kubah GRC, pemasangan kubah GRC, Musholla Nurul Islam, kubah islami modern, desain kubah islami, kubah GRC Bekasi, kubah motif islami, kubah GRC eksterior, kubah GRC interior, material GRC berkualitas, keunggulan kubah GRC, kontraktor kubah GRC, jasa pembuatan kubah, Cipta Mandiri Perkasa, kubah musholla indah, arsitektur islami, kubah tahan lama, kubah ringan dan kokoh, konstruksi kubah GRC'
+categories: Diselesaikan
 tags: 
    - Diselesaikan
    - Kubah Motif
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2025-01-18-17-51-29%20-%20Copy.jpg
 ---
 
 # **Proyek Kubah GRC untuk Musholla Nurul Islam: Menyempurnakan Keindahan dan Fungsi Tempat Ibadah**  

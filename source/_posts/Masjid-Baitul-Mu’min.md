@@ -8,7 +8,7 @@ tags:
    - Lisplang
    - Kubah Motif
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2025-01-18-17-51-30%20-%20Copy.jpg
 ---
 
 # **Penyelesaian Proyek Kubah dan Lisplang GRC Masjid Baitul Mu’min**

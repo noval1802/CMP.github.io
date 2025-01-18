@@ -2,12 +2,13 @@
 title: Masjid Darul Muttaqin
 date: 2022-07-18 00:47:39
 keywords: 'Masjid Darul Muttaqin, GRC lisplang atas, krawangan GRC, Tambun Selatan, jasa konstruksi masjid, bahan GRC, Cipta Mandiri Perkasa, lisplang modern, krawangan islami, estetika masjid, konstruksi masjid berkualitas'
+categories: Diselesaikan
 tags:
     - Diselesaikan
     - Krawangan
     - Lisplang
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/krawangan/FB_IMG_1548860267527.jpg
 ---
 
 

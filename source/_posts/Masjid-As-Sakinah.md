@@ -1,12 +1,14 @@
 ---
 title: Masjid As-Sakinah
 date: 2022-10-25 16:20:39
+keywords: 'krawangan GRC masjid, refisi finishing kubah, kubah masjid As-Sakinah, proyek krawangan masjid, kontraktor kubah GRC, jasa pemasangan krawangan, desain islami masjid, material GRC berkualitas, renovasi masjid Tambun Selatan, estetika masjid'
+categories: Diselesaikan
 tags: 
    - Diselesaikan
    - Krawangan
    - Kubah Motif
 top_img:
-cover: /asset/kubah/FB_IMG_1548856212595.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2025-01-18-17-51-28%20-%20Copy%20(2).jpg
 ---
 
 # **Penyelesaian Proyek Krawangan dan Refisi Finishing Kubah Masjid As-Sakinah**  

@@ -1,12 +1,14 @@
 ---
 title: Masjid Jami AL-Baitul Ma'mur
 date: 2022-09-01 15:34:59
+keywords: 'dinding GRC masjid, kubah GRC masjid, proyek Masjid Jami Al-Baitul Ma’mur, kontraktor GRC Bekasi, desain islami masjid.'
+categories: Diselesaikan
 tags: 
     - Diselesaikan
     - Masif
     - Menara
 top_img:
-cover: /asset/kubah/FB_IMG_1548856212595.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2025-01-18-17-51-30%20-%20Copy%20(2).jpg
 ---
 
 # **Penyelesaian Proyek Dinding Masjid Jami Al-Baitul Ma’mur**  
