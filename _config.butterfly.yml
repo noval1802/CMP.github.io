@@ -48,7 +48,7 @@ code_blocks:
 #   icon: link || the description || color
 social:
   fas fa-envelope: mailto:midun_sep73@yahoo.com || Email || '#3E5879'
-  fab fa-whatsapp: https://wa.me/6281386225702 || Whatsapp || '#3E5879'
+  fab fa-whatsapp: https://wa.me/6281386225702?text=Halo%2C%20saya%20tertarik%20dengan%20layanan%20Anda.%20Bisa%20dijelaskan%20bagaimana%20perhitungan%20harga%20untuk%20%5Bproduk%2Flayanan%5D%20yang%20Anda%20tawarkan%3F%20Terima%20kasih.%0A || Whatsapp || '#3E5879'
 
 # --------------------------------------
 # Image Settings
