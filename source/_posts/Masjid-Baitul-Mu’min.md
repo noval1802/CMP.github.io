@@ -1,6 +1,8 @@
 ---
 title: Masjid Baitul Mu’min
 date: 2022-12-02 22:13:19
+keywords: 'kubah GRC masjid, lisplang GRC masjid, proyek kubah masjid, kontraktor kubah GRC, desain kubah islami, renovasi masjid Bekasi, jasa pemasangan GRC, material GRC berkualitas, estetika masjid.'
+categories: Diselesaikan
 tags: 
    - Diselesaikan
    - Lisplang
@@ -9,7 +11,7 @@ top_img:
 cover: /asset/IMG_9003.jpg
 ---
 
-# **Penyelesaian Proyek Kubah dan Lisplang GRC Masjid Baitul Mu’min**  
+# **Penyelesaian Proyek Kubah dan Lisplang GRC Masjid Baitul Mu’min**
 
 Kami dengan bangga mengumumkan keberhasilan penyelesaian proyek kubah dan lisplang berbahan GRC untuk **Masjid Baitul Mu’min**, yang terletak di **Kp. Markan, RT 006 RW 03, Kecamatan Rawalumbu, Kabupaten Bekasi**. Proyek ini dirancang untuk memberikan nilai estetika, ketahanan, dan fungsi maksimal pada masjid, menciptakan tempat ibadah yang nyaman dan megah bagi masyarakat sekitar.  
 

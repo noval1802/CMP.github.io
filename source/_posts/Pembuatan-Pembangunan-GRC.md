@@ -5,7 +5,7 @@ keywords: 'jasa pembuatan kubah GRC, renovasi kubah GRC, kontraktor kubah GRC, k
 categories: Artikel
 tags: Artikel
 top_img:
-cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/IMG_9033.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/workshop/IMG_9033.jpg
 ---
 
 # **Jasa Renovasi dan Pembuatan Pembangunan GRC dengan Harga Kompetitif**
