@@ -67,12 +67,12 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: /img/bg.png
+index_img: /cmp.github.io/img/bg.png
 
 # The banner image of archive page
 archive_img:
 
-# Note: tag page, not tags page
+# Note: tag page, not tags page 
 tag_img:
 
 # The banner image of tag page, you can set the banner image for each tag
