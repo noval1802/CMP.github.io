@@ -67,8 +67,8 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: /cmp.github.io/img/asset/bg.png
-
+index_img: https://raw.githubusercontent.com/1337rokudenashi/1337rokudenashi.github.io/main/rokudenashi.png
+# /cmp.github.io/img/asset/bg.png
 # The banner image of archive page
 archive_img:
 
