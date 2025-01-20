@@ -7,7 +7,7 @@ tags:
    - Diselesaikan
    - Kubah Motif
 top_img:
-cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2025-01-18-17-51-29%20-%20Copy.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2025-01-18-17-51-23%20-%20Copy.jpg
 ---
 
 # **Proyek Kubah GRC untuk Musholla Nurul Islam: Menyempurnakan Keindahan dan Fungsi Tempat Ibadah**  

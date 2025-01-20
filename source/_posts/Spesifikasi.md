@@ -4,7 +4,7 @@ date: 2016-01-13 12:14:09
 categories: Artikel
 tags: Artikel
 top_img:
-cover: /asset/krawangan/FB_IMG_1548864784940.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/workshop/PHOTO-2025-01-18-16-05-46.jpg
 ---
 # **Spesifikasi**
 ## **Sistem Pemasangan GRC**

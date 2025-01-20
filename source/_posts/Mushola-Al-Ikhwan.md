@@ -2,12 +2,13 @@
 title: Mushola Al-Ikhwan
 date: 2022-02-02 20:29:45
 keywords: 'penyelesaian proyek GRC, GRC Mushola Al-Ikhwan, krawangan GRC islami, pemasangan krawangan GRC, lis profil GRC, GRC krawangan mimbar, GRC fasad mushola, instalasi dekorasi GRC, kontraktor GRC profesional, proyek GRC Kavling Babakan, mushola estetis dengan GRC, desain islami GRC, manfaat GRC pada mushola, GRC tahan cuaca, keunggulan material GRC, dekorasi interior mushola, krawangan masif GRC, GRC lis profil bawah, GRC lis profil atas, jasa pemasangan krawangan GRC'
+categories: Diselesaikan
 tags: 
    - Diselesaikan
    - Krawangan
    - Masif
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/PHOTO-2025-01-18-17-51-28%20-%20Copy.jpg
 ---
 # **Penyelesaian Proyek GRC pada Mushola Al-Ikhwan**  
 
@@ -50,6 +51,11 @@ Proyek ini dirancang untuk mendukung fungsi mushola sebagai tempat ibadah sekali
 
 ## **Komitmen Cipta Mandiri Perkasa (CMP)**  
 Sebagai penyedia solusi konstruksi berbasis GRC yang terpercaya, kami selalu memastikan kualitas terbaik dalam setiap pengerjaan. Terima kasih atas kepercayaan yang telah diberikan kepada kami untuk proyek Mushola Al-Ikhwan ini.  
+
+# **Testimoni Klien**
+
+>"Kami sangat puas dengan hasil pengerjaan kubah GRC oleh CMP. Desainnya tidak hanya indah tetapi juga kokoh. Pemasangan dilakukan dengan sangat profesional dan tepat waktu. Kubah ini telah menjadi simbol spiritual yang mempesona bagi jamaah kami.
+— Pengurus Masjid Al-Ikhwan"
 
 Untuk kebutuhan pemasangan kubah, krawangan, lis profil, atau elemen dekoratif GRC lainnya, jangan ragu untuk menghubungi kami.  
 

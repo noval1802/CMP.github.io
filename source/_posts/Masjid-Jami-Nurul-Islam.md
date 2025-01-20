@@ -7,7 +7,7 @@ tags:
     - Kubah Motif
     - Menara
 top_img:
-cover: /asset/IMG_9003.jpg
+cover: https://raw.githubusercontent.com/noval1802/cmp.github.io/refs/heads/main/asset/workshop/PHOTO-2025-01-18-16-05-46.jpg
 ---
 
 
